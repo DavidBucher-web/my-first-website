@@ -63,3 +63,8 @@ ul {
 .button:hover {
   background-color: #0056b3;
 }
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+} 
